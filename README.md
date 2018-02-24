@@ -8,3 +8,4 @@ urllib(https://github.com/HChersh/Python/blob/master/urllib.ipynb)
 
 requests(https://github.com/HChersh/Python/blob/master/requests.ipynb)
 
+regex(https://github.com/HChersh/Python/blob/master/regex.ipynb) 正则表达式相关的文档
